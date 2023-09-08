@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AthenaJDBC42-2.1.1.10011">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/SimbaAthenaJDBC-2.1.1.1001/SimbaAthenaJDBC42-2.1.1.1001/AthenaJDBC42-2.1.1.1001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
